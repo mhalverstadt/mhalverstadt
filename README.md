@@ -5,52 +5,56 @@ I'm a Denver-based software engineer, focused on full-stack web development. If 
 
 Check out [my website](https://markhalverstadt.netlify.app/) 
 
-<!-- <h1 align="center">Projects</h1>
+<h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Wildscapes</h3>
+      <h3 align="center">National Parks API</h3>
        <br />
-       <a target="_blank" href="https://wildscapes.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101761079/179854603-34913782-0840-4e2e-92dd-7a8cc22f417f.jpg" width="100%" alt="Xeriscaping website"/>
+       <a target="_blank" href="https://national-parks-api-v2.herokuapp.com/">
+        <img src="https://user-images.githubusercontent.com/102763323/186736885-293e40d0-a125-4f03-a94a-65c454cb3f03.jpg"
+ width="100%" alt="National Parks API Website"/>
        </a>
        <br />
        <br />
-       <p><strong>HTML5, CSS3, JavaScript</strong><br />This cleanly designed, responsive website brings visibility to a family-owned xeriscaping business.</p>
+       <p><strong>HTML5, CSS3, JavaScript, NodeJS, Express, MongoDB,</strong><br />Simple National Parks API with beautiful photography and basic park information with a fuzzy auto-complete search</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Edible Forest Forays</h3>
+      <h3 align="center">Lightness of Bean Coffee Shop</h3>
       <br />
-      <a target="_blank" href="https://edibleforestforays.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101761079/179854747-7a2d0612-1bed-4efc-bf12-96c6eb4e0992.jpg" width="100%"  alt="Mushroom foraging website"/>
+      <a target="_blank" href="https://lightness-of-bean.netlify.app/">
+        <img src="https://user-images.githubusercontent.com/102763323/186736996-44033f37-bc65-41cb-9f72-d26e522ab783.jpg"
+ width="100%"  alt="Coffee Shop Website"/>
       </a>
       <br />
       <br />
-      <p><strong>HTML5, CSS3, JavaScript</strong><br />This dark and moody, responsive website was a blast to build for a mushroom foraging business.</p>
+      <p><strong>HTML5, CSS3, JavaScript</strong><br />Simple, clean responsive website for a Coffee Shop</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Reese + Rover</h3>
+      <h3 align="center">Much Ado About Dumpling</h3>
       <br />
-      <a target="_blank" href="https://reeseandrover.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101761079/179854834-9bc5e55c-dfef-47d6-951c-6c2496749d9b.jpg" width="100%" alt="Dog-walking website"/>
+      <a target="_blank" href="https://about-dumpling.netlify.app/">
+        <img src="https://user-images.githubusercontent.com/102763323/186737143-fb2928d9-5bd5-4790-9c0a-97c7dc63cf39.jpg"
+ width="100%" alt="Dumpling Shop Website"/>
       </a>
       <br />
       <br />
-      <p><strong>HTML5, CSS3, JavaScript</strong><br />This simple, responsive website provides a landing page for a local dog-walking service.</p>
+      <p><strong>HTML5, CSS3, JavaScript</strong>Flavor-Pairs<br />Responsive single landing page for a dumpling restaurant</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">My Chronicle</h3>
+      <h3 align="center"></h3>
       <br />
       <a target="_blank" href="#">
         <img src="https://user-images.githubusercontent.com/101761079/179855859-c0647bdb-7d54-4e62-91eb-b1a09fc0ad0a.jpg" width="100%" alt="Coming soon placeholder image"/>
       </a>
       <br />
       <br />
-      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js</strong><br />I'm currently building a full-stack web app for folks with chronic, undiagnosed illnesses. Check back soon for updates.</p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js</strong><br />Currently working on a full stack application revolving around flavor pairs for cooking inspiration</p>
     </td>
   </tr>
-</table> -->
+</table>
+
