@@ -5,7 +5,7 @@ I'm a Denver-based software engineer, focused on full-stack web development. If 
 
 Check out [my website](https://markhalverstadt.netlify.app/) 
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -53,4 +53,4 @@ Check out [my website](https://markhalverstadt.netlify.app/)
       <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js</strong><br />I'm currently building a full-stack web app for folks with chronic, undiagnosed illnesses. Check back soon for updates.</p>
     </td>
   </tr>
-</table>
+</table> -->
