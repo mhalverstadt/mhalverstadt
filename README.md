@@ -4,10 +4,11 @@
 I'm a Denver-based software engineer, focused on full-stack web development. If I'm not at my computer you can find me in the woods hiking, foraging, and camping. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
 
 <h3 align="left">Connect with me:</h3>
-Check out [my website](https://markhalverstadt.netlify.app/) 
 <p align="left">
 <a href="https://twitter.com/@markhalverstadt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@markhalverstadt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mark halverstadt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark halverstadt" height="30" width="40" /></a>
+  
+Check out [my website](https://markhalverstadt.netlify.app/) 
 </p>
 
 
