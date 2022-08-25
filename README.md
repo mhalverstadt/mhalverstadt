@@ -1,7 +1,7 @@
 
 ![Banner1](https://user-images.githubusercontent.com/102763323/186513671-ae158591-1629-4c0b-9e73-39fdcb35579e.jpg)
 
-I'm a Denver-based software engineer, focused on full-stack web development. If I'm not at my computer you can find me in the woods hiking, foraging, and camping. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
+I'm a Denver-based software engineer, focused on full-stack web development. In my past life I was a classically trained chef. If I'm not at my computer or in the kitchen you can find me in the woods hiking, foraging for mushrooms, and camping. One of my proudest accomplishments has been hiking the 2660 mile Pacific Crest Trail. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
