@@ -73,4 +73,4 @@ Check out [my website](https://markhalverstadt.netlify.app/)
 <br />
 <br />
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhalverstadt&theme=highcontrast" alt="mhalverstadt" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhalverstadt&theme=highcontrast" alt="mhalverstadt" /></p>
