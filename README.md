@@ -57,7 +57,7 @@ Check out [my website](https://markhalverstadt.netlify.app/)
       <h3 align="center"></h3>
       <br />
       <a target="_blank" href="#">
-        ![Screenshot 2022-10-12 154840](https://user-images.githubusercontent.com/102763323/195455172-3fc506e5-ef0f-4d90-97f2-31a9ba310ae5.jpg)
+        <img src ="https://user-images.githubusercontent.com/102763323/195455172-3fc506e5-ef0f-4d90-97f2-31a9ba310ae5.jpg" width="100%" alt="The Flavor DB website"/>
       </a>
       <br />
       <br />
