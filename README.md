@@ -57,7 +57,7 @@ Check out [my website](https://markhalverstadt.netlify.app/)
       <h3 align="center"></h3>
       <br />
       <a target="_blank" href="#">
-        <img src="https://user-images.githubusercontent.com/101761079/179855859-c0647bdb-7d54-4e62-91eb-b1a09fc0ad0a.jpg" width="100%" alt="Coming soon placeholder image"/>
+        ![Screenshot 2022-10-12 154840](https://user-images.githubusercontent.com/102763323/195455172-3fc506e5-ef0f-4d90-97f2-31a9ba310ae5.jpg)
       </a>
       <br />
       <br />
