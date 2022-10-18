@@ -28,17 +28,18 @@ Check out [my website](https://markhalverstadt.netlify.app/)
        <br />
        <p><strong>HTML5, CSS3, JavaScript, NodeJS, Express, MongoDB,</strong><br />Simple National Parks API with beautiful photography and basic park information with a fuzzy auto-complete search</p>
     </td>
+    
     <td width="50%" valign="top">
-      <h3 align="center">Lightness of Bean Coffee Shop</h3>
+      <h3 align="center">The Flavor DB</h3>
       <br />
-      <a target="_blank" href="https://lightness-of-bean.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/102763323/186736996-44033f37-bc65-41cb-9f72-d26e522ab783.jpg"
- width="100%"  alt="Coffee Shop Website"/>
+      <a target="_blank" href="https://github.com/mhalverstadt/The-Flavor-DB">
+        <img src ="https://user-images.githubusercontent.com/102763323/195455172-3fc506e5-ef0f-4d90-97f2-31a9ba310ae5.jpg" width="100%" alt="The Flavor DB website"/>
       </a>
       <br />
       <br />
-      <p><strong>HTML5, CSS3, JavaScript</strong><br />Simple, clean responsive website for a Coffee Shop</p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, EJS</strong><br />Currently working on a full stack application revolving around flavor pairs for cooking inspiration</p>
     </td>
+    
   </tr>
   
   <tr>
@@ -55,15 +56,17 @@ Check out [my website](https://markhalverstadt.netlify.app/)
     </td>
     
     <td width="50%" valign="top">
-      <h3 align="center">The Flavor DB</h3>
+      <h3 align="center">Lightness of Bean Coffee Shop</h3>
       <br />
-      <a target="_blank" href="https://github.com/mhalverstadt/The-Flavor-DB">
-        <img src ="https://user-images.githubusercontent.com/102763323/195455172-3fc506e5-ef0f-4d90-97f2-31a9ba310ae5.jpg" width="100%" alt="The Flavor DB website"/>
+      <a target="_blank" href="https://lightness-of-bean.netlify.app/">
+        <img src="https://user-images.githubusercontent.com/102763323/186736996-44033f37-bc65-41cb-9f72-d26e522ab783.jpg"
+ width="100%"  alt="Coffee Shop Website"/>
       </a>
       <br />
       <br />
-      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js</strong><br />Currently working on a full stack application revolving around flavor pairs for cooking inspiration</p>
+      <p><strong>HTML5, CSS3, JavaScript</strong><br />Simple, clean responsive website for a Coffee Shop</p>
     </td>
+    
   </tr>
 </table>
 
