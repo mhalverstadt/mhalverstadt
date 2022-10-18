@@ -27,7 +27,7 @@ Check out [my website](https://markhalverstadt.netlify.app/)
       </a>
       <br />
       <br />
-      <p><strong>HTML5, CSS3, JavaScript</strong><br />HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, EJS</strong><br />Currently working on a full stack application revolving around flavor pairs for cooking inspiration</p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, EJS</strong><br />Currently working on a full stack application revolving around flavor pairs for cooking inspiration</p>
     </td>
   </tr>
   
