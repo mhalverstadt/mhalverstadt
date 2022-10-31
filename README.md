@@ -1,9 +1,24 @@
 
 ![Banner1](https://user-images.githubusercontent.com/102763323/186513671-ae158591-1629-4c0b-9e73-39fdcb35579e.jpg)
 
-I'm a Denver-based software engineer, focused on full-stack web development. In my past life I was a classically trained chef. If I'm not at my computer or in the kitchen you can find me in the woods hiking, foraging for mushrooms, and camping. One of my proudest accomplishments has been hiking the 2660 mile Pacific Crest Trail. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
+<p align="center">
+  <a href="https://markhalverstadt.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Portfolio&color=9cf&style=flat&logo=react&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mark-halverstadt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=lightgrey&style=flat&logo=linkedin&logoColor=white"/>
+  </a>  
+  <a href="https://angel.co/u/mark-halverstadt" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=AngelList&color=9cf&style=flat&logo=angellist&logoColor=white"/>
+  </a>  
+  <a href="https://twitter.com/MarkHalverstadt" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=9cf&style=flat&logo=twitter&logoColor=white"/>
+  </a>
 
-Check out [my website](https://markhalverstadt.netlify.app/) 
+I'm a Denver-based software engineer, focused on full-stack web development. In my past life I was a classically trained chef. If I'm not at my computer or in the kitchen you can find me in the woods hiking, foraging for mushrooms, and camping. One of my proudest accomplishments has been hiking the 2660 mile Pacific Crest Trail. I'm looking for my next full-time role, and accepting new freelance clients in the meantime. 
+HTML | CSS | JavaScript | NodeJS | Express
+
+Check out [my Portfolio](https://markhalverstadt.netlify.app/) 
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -17,6 +32,14 @@ Check out [my website](https://markhalverstadt.netlify.app/)
        </a>
        <br />
        <br />
+        <p align="center">
+        <a href="https://github.com/mhalverstadt/national-parks-api-project" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://national-parks-api-v2.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
+        </a>
+      </p>
        <p><strong>HTML5, CSS3, JavaScript, NodeJS, Express, MongoDB,</strong><br />Simple National Parks API with beautiful photography and basic park information with a fuzzy auto-complete search</p>
     </td>
     <td width="50%" valign="top">
@@ -27,6 +50,14 @@ Check out [my website](https://markhalverstadt.netlify.app/)
       </a>
       <br />
       <br />
+       <p align="center">
+        <a href="https://github.com/mhalverstadt/The-Flavor-DB" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://the-flavor-db.cyclic.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
+        </a>
+      </p>
       <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, EJS</strong><br />Currently working on a full stack application revolving around flavor pairs for cooking inspiration</p>
     </td>
   </tr>
@@ -40,6 +71,14 @@ Check out [my website](https://markhalverstadt.netlify.app/)
       </a>
       <br />
       <br />
+       <p align="center">
+        <a href="https://github.com/mhalverstadt/much-ado-about-dumpling" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://about-dumpling.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
+        </a>
+      </p>
       <p><strong>HTML5, CSS3, JavaScript</strong>Flavor-Pairs<br />Responsive single landing page for a dumpling restaurant</p>
     </td>
     <td width="50%" valign="top">
@@ -50,6 +89,14 @@ Check out [my website](https://markhalverstadt.netlify.app/)
       </a>
       <br />
       <br />
+       <p align="center">
+        <a href="https://github.com/mhalverstadt/lightness-of-bean-coffee-shop" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://lightness-of-bean.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
+        </a>
+      </p>
       <p><strong>HTML5, CSS3, JavaScript</strong><br />Simple, clean responsive website for a Coffee Shop</p>
     </td>
   </tr>
